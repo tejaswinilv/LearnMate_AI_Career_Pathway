@@ -59,23 +59,9 @@ Use of IBM Cloud Lite services / IBM Granite — as mandated by the problem stat
 ## Author
 Tejaswini LV
 
-
 ## Screenshots
+<img width="1909" height="1070" alt="agentss1" src="https://github.com/user-attachments/assets/51ba06f8-8dd7-4d38-b37e-71d2c39f0220" />
+<img width="1902" height="1075" alt="agentss2" src="https://github.com/user-attachments/assets/c6ca1459-6929-4041-aa6d-62ab52740ec6" />
+<img width="1904" height="1070" alt="agentss3" src="https://github.com/user-attachments/assets/635b3a45-cb36-4d9c-b118-38fa59b5c57b" />
 
-### 1. Conversation Flow — Interest & Skill Assessment
-LearnMate greets the student, captures their career interest (web development), and asks structured questions to assess skill level and available study time.
 
-![Conversation flow](<img width="1909" height="1070" alt="agentss1" src="https://github.com/user-attachments/assets/09355aac-9860-42fc-af1f-ddfd97ad1531" />
-)
-
-### 2. Personalized Roadmap Generation
-Based on the student's intermediate skill level and 7 hours/week availability, LearnMate generates a structured, stage-by-stage roadmap with time estimates and free resources, downloadable via the "Download Roadmap" button.
-
-![Roadmap generation](<img width="1902" height="1075" alt="agentss2" src="https://github.com/user-attachments/assets/4d255922-25a5-49b2-9400-2eb69bccdb04" />
-)
-
-### 3. Profile Tab — Captured Student Data
-The Profile tab shows the career goal, skill level, study time, and current stage — all captured live from the conversation, no manual form-filling required.
-
-![Profile tab](<img width="1904" height="1070" alt="agentss3" src="https://github.com/user-attachments/assets/7b5ae767-1dbd-42c3-a294-2ffb751718c7" />
-)
