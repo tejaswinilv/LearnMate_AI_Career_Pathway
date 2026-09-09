@@ -1,7 +1,7 @@
-# LearnMate — Agentic AI for Personalized Course Pathways
+# LearnMate - Agentic AI for Personalized Course Pathways
 
-**AICTE 2026 – IBM SkillsBuild University Engagement (Edunet Foundation)**
-**Problem Statement No.12 — Agentic AI for Personalized Course Pathways**
+**AICTE 2026 - IBM SkillsBuild University Engagement (Edunet Foundation)**
+**Problem Statement No.12 - Agentic AI for Personalized Course Pathways**
 
 ## Overview
 LearnMate is a conversational AI career-learning coach. Students often struggle to pick the right learning path given the overwhelming number of online courses and lack of personalized guidance. LearnMate solves this by acting as an Agentic AI coach that:
